@@ -1,0 +1,96 @@
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\appsettings.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.staticwebassets.runtime.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.staticwebassets.endpoints.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.exe
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.deps.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.runtimeconfig.json
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.dll
+C:\Users\usuario\Desktop\Nova pasta\bin\Debug\net9.0\Nova pasta.pdb
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\scopedcss\bundle\Nova pasta.styles.css
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\scopedcss\projectbundle\Nova pasta.bundle.scp.css
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\csf708b0qr-b9sayid5wm.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\x0dffswxeo-61n19gt1b8.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\fj78w98c3i-xtxxf3hu2r.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\m69uxkm10x-bqjiyaj88i.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\6xreyl6h02-c2jlpeoesf.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\b83bqitdmd-erw9l3u2r3.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\zovhmgfk7e-aexeepp0ev.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\8v05e4jrz4-d7shbmvgxk.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\3xgc5qqef6-ausgxo2sd3.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\fuhqyfnjg9-k8d9w2qqmf.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\2ujtylvkuz-cosvhxvwiu.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\jgagbdy71m-ub07r2b239.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\ecbwgwmkct-fvhpjtyr6v.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\nywsjl7b0m-b7pk76d08c.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\58404yh9zb-fsbi9cje9m.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\eml4r2akh4-rzd6atqjts.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\uotjngig7p-ee0r1s7dh0.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\henxpaxx9v-dxx9fxp4il.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\39iig1phye-jd9uben2k1.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\fai2skld89-khv3u5hwcm.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\5gq468zvcw-r4e9w2rdcm.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\0m45otsiy1-lcd1t2u6c8.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\kulf3c2wqb-c2oey78nd0.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\x7i0xmk0ea-tdbxkamptv.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\d7oi0ekvks-j5mq2jizvt.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\s92n6b4fev-06098lyss8.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\qnbb3xbclf-nvvlpmu67g.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\veayvr1obe-s35ty4nyc5.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\h76vn5om1f-pj5nd1wqec.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\n9dwnzx92q-46ein0sx1k.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\rpcabrnjtm-v0zj4ognzu.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\ubc8i0nulg-37tfw0ft22.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\u68omxug6r-hrwsygsryq.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\x8aolo42yy-pk9g2wxc8p.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\6i5r70hbo9-ft3s53vfgj.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\mzlvfy505w-6cfz1n2cew.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\gguzc80b9f-6pdc2jztkx.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\rca0eftdxq-493y06b0oq.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\8v10uuxjo8-iovd86k7lj.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\h75ej7no1v-vr1egmr9el.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\q0r9r3mhpg-kbrnm935zg.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\fagqskeaco-jj8uyg4cgr.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\6f89glbnv7-y7v9cxd14o.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\ap6p2p8ijz-notf2xhcfb.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\yvqdbl8ut5-h1s4sie4z3.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\d2t74zyquh-63fj8s7r0e.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\kchx2mc5lx-0j3bgjxly4.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\bxr4gggpte-47otxtyo56.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\03pq6c57uw-4v8eqarkd7.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\l4tnxacgmn-356vix0kms.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\qmppxu6gxv-83jwlth58m.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\5lavpu4uwy-mrlpezrjn3.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\43y8z7j9p2-lzl9nlhx6b.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\kscoppxj4q-ag7o75518u.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\xxx4wl9pck-x0q3zqp4vz.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\v9huh98c4s-0i3buxo5is.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\du5xx5abdk-o1o13a6vjx.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\elbovv2b84-ttgo8qnofa.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\fx89700fmp-2z0ns9nrw6.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\2r8e749cm6-muycvpuwrr.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\y963vinoya-87fc7y1x7t.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\czkvaxwnu4-mlv21k5csn.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\gnweq6n6he-n2mnl3ipwh.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\compressed\5ffbnmhb8l-n2mnl3ipwh.gz
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.dll
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\refint\Nova pasta.dll
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.pdb
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\Nova pasta.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Nova pasta\obj\Debug\net9.0\ref\Nova pasta.dll
